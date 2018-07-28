@@ -1,0 +1,7 @@
+Modal- component
+
+* used header, body and buttons with id's and classes 
+
+* used class named close in jquery to hide when clicked 
+
+

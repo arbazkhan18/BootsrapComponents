@@ -1,0 +1,7 @@
+navbar-component
+
+* used a simple navbar component
+
+* and a fa fa bars button which is enabled using media queries
+
+* and jquery to enable the toggle button when it is md size 

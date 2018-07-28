@@ -1,0 +1,7 @@
+Collapse-component
+
+* used 3 different buttons and added content and some styling using css,
+
+* In jquery used this keyword and toggle function with time 200ms to show it effectively.
+
+
